@@ -1,0 +1,6 @@
+.border{
+    border: 2px solid lime;
+    border-radius: 6px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
