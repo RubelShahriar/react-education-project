@@ -1,3 +1,10 @@
 .notfound{
     color: red;
+    padding: 200px 0px;
+}
+.notfound h2{
+    font-size: 38px;
+}
+.notfound h1{
+    font-size: 45px;
 }

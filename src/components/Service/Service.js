@@ -10,7 +10,7 @@ const Service = () => {
     useEffect(() => {
         fetch('./course.JSON')
             .then(res => res.json())
-            .then(data => setCourse(data.slice(0, 4)))
+            .then(data => setCourse(data.slice(0, 8)))
     },[]);
 
     return ( 

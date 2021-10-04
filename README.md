@@ -4,7 +4,7 @@ This is our website you can visit [Create React App](https://github.com/facebook
 
 ## Our facilities
 
-In the project directory, you can run:
+In the below is our facilities
 
 * ### `24/7 Online Support`
 
