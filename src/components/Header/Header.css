@@ -1,15 +1,13 @@
-.border{
-    border: 2px solid lime;
-    border-radius: 6px;
-    margin-bottom: 10px;
+.header{
+    margin-bottom: 50px;
     display: flex;
     align-items: center;
-    background-color: yellow;
+    background-color: crimson;
+    padding: 0 60px;
 }
-.logo p{
-    color: lime;
-    font-size: 25px;
-    margin: -10px 0;
+.logo h2{
+    color: white;
+    font-size: 25px; 
 }
 .nav-item{
     margin-left: auto;
@@ -20,5 +18,9 @@
     text-align: right;
     text-decoration: none;
     font-weight: 500;
-    color: black;
+    color: white;
+}
+.item:hover{
+    color: orange;
+    transition: .4s;
 }

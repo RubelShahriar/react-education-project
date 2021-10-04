@@ -1,6 +1,18 @@
-.border{
-    border: 2px solid lime;
-    border-radius: 6px;
-    padding: 30px;
-    margin-bottom: 10px;
+.campus{
+    margin-bottom: 50px; 
+}
+.campus h2{
+    margin-bottom: 30px;
+}
+.flex{
+    display: flex;
+}
+.campus-item{
+    margin: 0 20px;
+    background: #edeef3;
+    width: 30%;
+}
+.campus-item .image img{
+    width: 100%;
+    height: 260px;
 }

@@ -1,5 +1,18 @@
-.border{
-    border: 2px solid lime;
-    border-radius: 6px;
-    padding: 15px;
+.footer{
+    display: flex;
+    background-color: #3d5a80;
+    color: white;
+    padding: 0 60px;
+}
+.footer .partnership{
+    width: 30%;
+    text-align: left;
+}
+.footer .about{
+    text-align: left;
+    width: 30%;
+}
+.footer .support{
+    text-align: left;
+    width: 30%;
 }

@@ -4,13 +4,15 @@ import './About.css';
 const AboutUs = () => {
     return (
         <div className='about-us'>
-            <h2>About Us</h2>
-            <div className='about'>
+            <h2>About Us</h2> 
+            <div className='about-learn'>
             <div className='text'>
-                <p>Using color to add meaning only provides a visual indication, which will not be conveyed to users of assistive technologies – such as screen readers. Ensure that information denoted by the color is either obvious from the content itself (e.g. the visible text), or is included through alternative means, such as additional text hidden with the .visually-hidden class.</p>
+                <p>Do you want to learn to code but feel put off by the cost of coding classes? If you think computer science and learning to code might be your jam, but aren’t ready to spend money on getting the skills, this is the roundup for you.</p>
+                <p>
+                If you want to really master coding skills, you’ll eventually want to dive into a more in-depth coding class option. But you can learn some of the basics, like HTML, CSS, and JavaScript, for free while you decide if you’re ready to take your development skills to the next level.</p>
             </div>
             <div className='image'>
-                <img src='http://html.kodesolution.live/s/studypress/v6.0/demo/images/about/3.jpg' alt=''/>
+                <img src='https://media.istockphoto.com/photos/computer-programmer-working-on-laptop-picture-id1265176772?b=1&k=20&m=1265176772&s=170667a&w=0&h=IHFnvxa3kvVTuZcEfPpCSGIFA_gNT7dIlGDR7eD2cFI=' alt=''/>
             </div>
             </div>
         </div>
