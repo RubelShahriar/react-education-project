@@ -37,7 +37,7 @@
         "duration": "6 month",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsc0jzySq6zjRVGXhkJw_vBFeMuEAXAIDXFA&usqp=CAU",
         "description": "you are a nice girl",
-        "price": "$600"
+        "price": "$400"
     },
     {
         "key": "6",
@@ -53,7 +53,7 @@
         "duration": "6 month",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAzQOafR7sQwpoySfdC4nQNg1pz0gvqgYe_A&usqp=CAU",
         "description": "you are a nice girl",
-        "price": "$450"
+        "price": "$400"
     },
     {
         "key": "8",
@@ -64,18 +64,10 @@
         "price": "$400"
     },
     {
-        "key": "9",
-        "course": "Vue",
-        "duration": "5 month",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqbVZYdKrDM8BkZCfm8LR3_SvSvZgu8K66Q&usqp=CAU",
-        "description": "you are a nice girl",
-        "price": "$500"
-    },
-    {
-        "key": "9",
-        "course": "MongoDB",
+        "key": "1",
+        "course": "javaScript",
         "duration": "6 month",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3L-1c1IaPlMcNzb5Ds64JXkXuv36f-GVmIQ&usqp=CAU",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqbVZYdKrDM8BkZCfm8LR3_SvSvZgu8K66Q&usqp=CAU",
         "description": "you are a nice girl",
         "price": "$400"
     }

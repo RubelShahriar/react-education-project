@@ -4,7 +4,7 @@ import './CourseComp.css';
 
 const CourseComp = (props) => {
     console.log(props.crs);
-    const {course, image, description, price, duration} = props.course;
+    const {course, image, price, duration} = props.course;
 
     return (
         <div className='coursecomp'>

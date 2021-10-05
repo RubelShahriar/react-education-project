@@ -3,6 +3,7 @@ import './About.css';
 
 const AboutUs = () => {
     return (
+    // show abot part text and image
         <div className='about-us'>
             <h2>About Us</h2> 
             <div className='about-learn'>

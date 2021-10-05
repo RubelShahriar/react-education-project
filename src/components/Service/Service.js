@@ -10,12 +10,13 @@ const Service = () => {
     useEffect(() => {
         fetch('./course.JSON')
             .then(res => res.json())
-            .then(data => setCourse(data.slice(0, 8)))
+            .then(data => setCourse(data))
     },[]);
 
     return ( 
         <div className='service'>
             <h2>Our Services</h2>
+            {/* use react bootstrap card to show details */}
             <Row xs={1} md={4} className="g-4"> 
             {
                 course.map(course => <CourseComp

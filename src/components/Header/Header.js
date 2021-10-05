@@ -8,6 +8,7 @@ const Header = () => {
             <div className= 'logo'>
                 <h2>UniLearn</h2>
             </div>
+            {/* use link to the navbar as nav items */}
             <div className='nav-item'>
                 <Link to='/home' className='item'>Home</Link>
                 <Link to='/aboutUs' className='item'>About Us</Link>

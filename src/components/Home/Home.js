@@ -1,14 +1,14 @@
 import React from 'react';
 import './Home.css';
 import About from '../AboutUs/AboutUs';
-import Service from '../Service/Service';
 import Campus from '../Campus/Campus';
+import CourseOne from '../CourseOne/CourseOne';
 
 const Home = () => {
     return (
         <div className='home'>
             <About></About>
-            <Service></Service>
+            <CourseOne></CourseOne>
             <Campus></Campus>
         </div>
     );

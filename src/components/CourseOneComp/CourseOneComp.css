@@ -1,15 +1,14 @@
-.coursecomp{
+.service-comp{
     display: inline-block;
     background-color: #edeef3;
     margin-bottom: 10px;
     margin: 10px;
     width: 23%;
 }
-.coursecomp .text{
+.service-comp .text{
     text-align: left;
     margin: 20px 10px;
 }
-.coursecomp img{
+.service-comp img{
     width: 100%; 
-    height: 180px;
 }
